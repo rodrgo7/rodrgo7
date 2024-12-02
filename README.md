@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning ...<br>🎯 Goals: Developer<br>🎲 Fun fact: Soccer and Play Games</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning ...<br>🎯 Goals: Developer<br>🎲 Fun fact: Play Soccer and Play Games</p>
 
 ###
 
