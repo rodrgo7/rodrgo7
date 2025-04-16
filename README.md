@@ -7,6 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
+I work with backend development using Java and Spring Boot, focusing on building REST APIs, microservices, and scalable solutions. I'm familiar with JWT authentication, integration testing with TestContainers, and have a solid background in IT infrastructure, which helps me think beyond the code and contribute to complete solutions from development to production.
 
 ###
 
